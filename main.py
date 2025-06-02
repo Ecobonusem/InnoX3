@@ -1,4 +1,5 @@
-import os from telegram import Update, ReplyKeyboardMarkup from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext from dotenv import load_dotenv
+import os
+from telegram import Update, ReplyKeyboardMarkup
 
 .env fayldan token va admin id ni olish
 
